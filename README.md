@@ -7,9 +7,9 @@
 > The code solutions in this repository are categorized by `Difficulty Level`.
 
 > [!NOTE]
-> > The `Topics Tags` would be recorded in **Commit message** column.
+> The `Topics Tags` would be recorded in **Commit message** column.
 
 ### Supplementary Notes of This Repository
-- Programming Language : `python`
-- LeetCode Topics Tags : `Hash Table`、`String`、`Greedy`、`Array`、`Database`
-- LeetCode Difficulty Level : `Easy`
+- **Programming Language** : `python`
+- **Topics Tags** : `Hash Table`、`String`、`Greedy`、`Array`、`Database`
+- **Difficulty Level** : `Easy`
