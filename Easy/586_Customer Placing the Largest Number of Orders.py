@@ -14,7 +14,6 @@ def largest_orders(orders: pd.DataFrame) -> pd.DataFrame:
         order = orders["customer_number"].value_counts(
             ascending=False
         )
-        print(order)
         customer_with_most_orders = pd.DataFrame({
             "customer_number": [order.index[0]]
         })
