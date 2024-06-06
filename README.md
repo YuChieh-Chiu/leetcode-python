@@ -12,4 +12,6 @@
 ### Supplementary Notes of This Repository
 - **Programming Language** : `python`
 - **Topics Tags** : `Hash Table`、`String`、`Greedy`、`Array`、`Database`
-- **Difficulty Level** : `Easy` * 10
+- **Difficulty Level** :
+  - `Easy` * 14
+  - `Medium` * 1
