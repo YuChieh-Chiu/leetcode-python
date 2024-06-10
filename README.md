@@ -14,4 +14,4 @@
 - **Topics Tags** : `Hash Table`、`String`、`Greedy`、`Array`、`Database`、`Sorting`、`Trie`、`Math`、`Prefix Sum`
 - **Difficulty Level** :
   - `Easy` * 14
-  - `Medium` * 3
+  - `Medium` * 4
