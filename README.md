@@ -10,8 +10,10 @@
 > The `Topics Tags` would be recorded in **Commit message** column.
 
 ### Supplementary Notes of This Repository
-- **Programming Language** : `python`
-- **Topics Tags** : `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Trie`
+- **Programming Language** :
+  - `python`
+- **Topics Tags** :
+  - `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Trie`
 - **Difficulty Level** :
   - `Easy` * 15
   - `Medium` * 5
