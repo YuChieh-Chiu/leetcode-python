@@ -16,4 +16,4 @@
   - `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Trie`
 - **Difficulty Level** :
   - `Easy` * 15
-  - `Medium` * 5
+  - `Medium` * 6
