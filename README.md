@@ -15,5 +15,5 @@
 - **Topics Tags** :
   - `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Trie`
 - **Difficulty Level** :
-  - `Easy` * 15
+  - `Easy` * 16
   - `Medium` * 6
