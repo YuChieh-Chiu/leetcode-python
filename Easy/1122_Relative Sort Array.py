@@ -21,7 +21,7 @@ class Solution:
             (2) not in `arr2` part : sort in asceding order
             (3) in `arr2` part : use algorithm like `counting sort` to sort the list
                 - time complexity = O(n+k)
-                - space complexity = O(k)
+                - space complexity = O(n+k)
         """
         in_arr2 = []
         not_in_arr2 = []
