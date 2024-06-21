@@ -13,7 +13,7 @@
 - **Programming Language** :
   - `python`
 - **Topics Tags** :
-  - `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Trie`、`Two Pointers`
+  - `Array`、`Counting`、`Counting Sort`、`Database`、`Greedy`、`Hash Table`、`Math`、`Prefix Sum`、`String`、`Sorting`、`Sliding Window`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
   - `Easy` * 17
-  - `Medium` * 12
+  - `Medium` * 13
