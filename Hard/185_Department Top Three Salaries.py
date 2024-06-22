@@ -4,11 +4,11 @@ def top_three_salaries(employee: pd.DataFrame, department: pd.DataFrame) -> pd.D
     """
     thought:
     - we need to `merge` two dataframe employee and department
-    - we should do the following steps to get the top3 salary in each department:
+    - we should do the following steps to get the top3 unique salary in each department:
         (1) `groupby` department name
         (2) `drop duplicate` salary
         (3) `sort` salary by `value` in descending order
-        (4) get the `top3` salary in each department
+        (4) get the `top3` unique salary in each department
     - `merge` back top3 dataframe with employee dataframe to get the employee name
     - `rename` columns to get correct column names
     """
