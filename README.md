@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ### Description of This Repository
-> This is the repository of my code solutions on LeetCode.
+> This is the repository of my **PYTHON** code solutions on LeetCode.
 
 > [!NOTE] 
 > The code solutions in this repository are categorized by `Difficulty Level`.
