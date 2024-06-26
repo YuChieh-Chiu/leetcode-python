@@ -1,3 +1,4 @@
+# METHOD 1
 from heapq import *
 class Solution:
     def longestSubarray(self, nums: List[int], limit: int) -> int:
@@ -32,4 +33,47 @@ class Solution:
                     heappop(max_pq)       
         if len(window) > longest:
             longest = len(window)
+        return longest
+
+# METHOD 2
+from collections import deque
+class Solution:
+    def longestSubarray(self, nums: List[int], limit: int) -> int:
+        """
+        thought:
+        - we want to find subarray in array, so we can use algorithm `Sliding Windows`
+        - the RULE in sliding window that we should follow is 「the absolute difference between any two elements of the sliding window is less than or equal to `limit`」, which means
+            (1) MAX - MIN <= limit
+            (2) if MAX - MIN > limit, then we should compare index(MAX) vs. index(MIN)
+                - index(MAX) < index(MIN): we should remove all left than index(MAX), include itself
+                - index(MAX) > index(MIN): we should remove all left than index(MIN), include itself 
+        - Note that if we need to get max and min value in sliding window by max() and min() each time, the time complexity is too high (O(n^2))
+        - So we can try to use `monotonic deque` to much more shorten the time complexity to O(n)
+        """
+        longest = 0
+        dq_max = deque() # store index in monotonic descending order
+        dq_min = deque() # store index in monotonic ascending order
+        left_border = 0
+        for i, num in enumerate(nums):
+            if len(dq_max) > 0:
+                while (len(dq_max) > 1) & (num >= nums[dq_max[-1]]):
+                    dq_max.pop()
+                if (num >= nums[dq_max[-1]]):
+                    dq_max.pop()
+            dq_max.append(i)
+            if len(dq_min) > 0:
+                while (len(dq_min) > 1) & (num <= nums[dq_min[-1]]):
+                    dq_min.pop()
+                if (num <= nums[dq_min[-1]]):
+                    dq_min.pop()
+            dq_min.append(i)
+            while (nums[dq_max[0]] - nums[dq_min[0]]) > limit:
+                if dq_max[0] < dq_min[0]: # the index of max value is smaller than the index of min value
+                    left_border = dq_max[0] + 1
+                    dq_max.popleft()
+                else:
+                    left_border = dq_min[0] + 1
+                    dq_min.popleft()
+            if (i-left_border+1) > longest:
+                longest = (i-left_border+1)
         return longest
