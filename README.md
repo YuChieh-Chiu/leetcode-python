@@ -15,6 +15,6 @@
 - **Topics Tags** :
   - `Array`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`String`、`Sorting`、`Sliding Window`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
-  - `Easy` * 18
+  - `Easy` * 19
   - `Medium` * 16
   - `Hard` * 2
