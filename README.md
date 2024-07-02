@@ -7,7 +7,7 @@
 > The code solutions in this repository are categorized by `Difficulty Level`.
 
 > [!NOTE]
-> The `Topics Tags` would be recorded in **Commit message** column.
+> The `Topics Tags` would be recorded in **Commit message** column.<br>
 > Note that a LeetCode problem may have multiple solutions. My solution is just one of them and may not necessarily include all the algorithms or data structures mentioned in the `Topic Tags`.
 
 ### Supplementary Notes of This Repository
