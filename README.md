@@ -8,13 +8,14 @@
 
 > [!NOTE]
 > The `Topics Tags` would be recorded in **Commit message** column.
+> Note that a LeetCode problem may have multiple solutions. My solution is just one of them and may not necessarily include all the algorithms or data structures mentioned in the `Topic Tags`.
 
 ### Supplementary Notes of This Repository
 - **Programming Language** :
   - `python`
 - **Topics Tags** :
-  - `Array`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`String`、`Sorting`、`Sliding Window`、`Trie`、`Two Pointers`
+  - `Array`、`Binary Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`String`、`Sorting`、`Sliding Window`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
-  - `Easy` * 20
+  - `Easy` * 21
   - `Medium` * 16
   - `Hard` * 2
