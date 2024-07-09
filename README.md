@@ -17,5 +17,5 @@
   - `Array`、`Binary Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`String`、`Sorting`、`Sliding Window`、`Simulation`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
   - `Easy` * 24
-  - `Medium` * 18
+  - `Medium` * 19
   - `Hard` * 2
