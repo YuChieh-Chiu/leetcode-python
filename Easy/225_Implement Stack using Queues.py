@@ -17,7 +17,7 @@ class MyStack:
         """
         - function: remove the element on the top of `stack` using queue
         - todo: 
-            (1) since `queue` can only pop from the end, we need to continue poping from the end till length of `queue` equals to 1 
+            (1) since `queue` can only pop from the front, we need to continue poping from the front till length of `queue` equals to 1 
             (2) the popped out values should be stored and replace `self.queue` to represent the `stack` after popping out the last value
             (3) the last value still in `queue` is the value be popped out
         - note: `queue` is a FIFO data structure, so we need to use pop(0) to pop the first element
@@ -32,7 +32,7 @@ class MyStack:
         """
         - function: return the element on the top of the stack using queue
         - todo:
-            (1) since `queue` can only pop from the end, we need to continue poping from the end till length of `queue` equals to 0
+            (1) since `queue` can only pop from the front, we need to continue poping from the front till length of `queue` equals to 0
             (2) the popped out values should be stored and replace `self.queue` to represent the `stack` after using `top`
             (3) when length of `queue` equals to 1, get the value and return it later
         - note: `queue` is a FIFO data structure, so we need to use pop(0) to pop the first element
