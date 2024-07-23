@@ -16,7 +16,7 @@
 - **Topics Tags** :
   - `Array`、`Binary Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Matrix`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Stack`、`String`、`Sorting`、`Sliding Window`、`Simulation`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
-  - `Easy` * 31
+  - `Easy` * 32
   - `Medium` * 24
   - `Hard` * 2
 - **Commit message of README.md**：
