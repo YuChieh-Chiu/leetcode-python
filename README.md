@@ -17,7 +17,7 @@
   - `Array`、`Binary Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Design`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Matrix`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Stack`、`String`、`Sorting`、`Sliding Window`、`Simulation`、`Trie`、`Two Pointers`
 - **Difficulty Level** :
   - `Easy` * 32
-  - `Medium` * 24
+  - `Medium` * 25
   - `Hard` * 2
 - **Commit message of README.md**：
   - This is just a fun way to use vYears.Months.Days to track the number of days I've been practicing LeetCode.
