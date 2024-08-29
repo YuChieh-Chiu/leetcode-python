@@ -28,7 +28,6 @@ class Solution:
                - If the current level in the `Trie` has only one child node and that child node marks the end of a word (`'_end'`), we return the prefix found so far.
                - If the current level has only one child node but it does not mark the end of a word, continue traversing to extend the `longestPrefix`.
                - If the current level has more than one child node, we have reached the end of the longest common prefix and can return it.
-
         """
         # build trie
         for word in strs:
