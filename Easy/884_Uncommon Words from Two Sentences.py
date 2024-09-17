@@ -5,7 +5,7 @@ class Solution:
         - from the problem description, we can infer that:
             (1) `s1` and `s2` do not have leading or trailing spaces, so we can split `s1` and `s2` by spaces without using .strip().
             (2) all words in `s1` and `s2` are separated by a single space, so we don't need to replace multiple spaces with a single space.
-            (3) A word is considered uncommon only if it appears exactly once across both sentences.
+            (3) a word is considered uncommon only if it appears exactly once across both sentences.
         - therefore, we can follow these steps:
             (1) split `s1` and `s2` by spaces.
             (2) cncatenate the two lists into one list.
