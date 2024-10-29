@@ -14,9 +14,9 @@
 - **Programming Language** :
   - `python`
 - **Topics Tags** :
-  - `Array`、`Backtracking`、`Binary Search`、`Breadth-First Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Trie`、`Two Pointers`、`Union Find`
+  - `Array`、`Backtracking`、`Binary Search`、`Binary Tree`、`Breadth-First Search`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`
 - **Difficulty Level** :
-  - `Easy` * 50
+  - `Easy` * 51
   - `Medium` * 42
   - `Hard` * 2
 - **Commit message of README.md**：
