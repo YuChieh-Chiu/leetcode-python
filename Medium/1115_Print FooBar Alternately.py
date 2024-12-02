@@ -12,7 +12,7 @@ Thought:
         - From the second iteration onwards, both locks are involved:
             1. If `lock2` is released and `lock1` is acquired, execute the `foo` function.
             2. If `lock1` is released, execute the `bar` function and release `lock2`.
-3. Key Concepts:
+- Key Concepts:
     - Concurrency
     - Multi-threading
     - The `Lock` module in the `threading` library
