@@ -11,7 +11,7 @@ class Solution:
         - Steps:  
             1. Initialize a variable `maxTriplet` to store the maximum computed value.
             2. Use a triple-nested loop to iterate over all valid triplets (i, j, k), where i < j < k, and compute the corresponding value.  
-            3. Return `maxTriplet`.
+            3. Return `maxTriplet` as the result.
         """
 
         maxTriplet = 0
