@@ -18,6 +18,6 @@
 - **Difficulty Level** :
   - `Easy` * 70
   - `Medium` * 64
-  - `Hard` * 2
+  - `Hard` * 3
 - **Commit message of README.md**：
   - This is just a fun way to use vYears.Months.Days to track the number of days I've been practicing LeetCode.
