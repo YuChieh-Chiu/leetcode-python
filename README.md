@@ -14,9 +14,9 @@
 - **Programming Language** :
   - `python`
 - **Topics Tags** :
-  - `Array`、`Backtracking`、`Binary Search`、`Binary Search Tree`、`Binary Tree`、`Bit Manipulation`、`Brainteaser`、`Breadth-First Search`、`Concurrency`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Enumeration`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`、`Weekly Contest 263`
+  - `Array`、`Backtracking`、`Binary Search`、`Binary Search Tree`、`Binary Tree`、`Bit Manipulation`、`Brainteaser`、`Breadth-First Search`、`Concurrency`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Enumeration`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`、`Weekly Contest 263`、`Weekly Contest 272`
 - **Difficulty Level** :
-  - `Easy` * 76
+  - `Easy` * 77
   - `Medium` * 66
   - `Hard` * 4
 - **Commit message of README.md**：
