@@ -14,9 +14,9 @@
 - **Programming Language** :
   - `python`
 - **Topics Tags** :
-  - `Array`、`Backtracking`、`Binary Search`、`Binary Search Tree`、`Binary Tree`、`Bit Manipulation`、`Biweekly Contest 44`、`Brainteaser`、`Breadth-First Search`、`Concurrency`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Enumeration`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`、`Weekly Contest 232`、`Weekly Contest 250`、`Weekly Contest 263`、`Weekly Contest 272`、`Weekly Contest 315`
+  - `Array`、`Backtracking`、`Binary Search`、`Binary Search Tree`、`Binary Tree`、`Bit Manipulation`、`Biweekly Contest 44`、`Brainteaser`、`Breadth-First Search`、`Concurrency`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Enumeration`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`、`Weekly Contest 232`、`Weekly Contest 250`、`Weekly Contest 263`、`Weekly Contest 272`、`Weekly Contest 315`、`Weekly Contest 380`
 - **Difficulty Level** :
-  - `Easy` * 80
+  - `Easy` * 81
   - `Medium` * 69
   - `Hard` * 4
 - **Commit message of README.md**：
