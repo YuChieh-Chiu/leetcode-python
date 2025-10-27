@@ -18,7 +18,7 @@ class Solution:
         prev = 0
 
         for row in bank:
-            current = row.count('1')  # 使用內建方法
+            current = row.count('1')  # 使用內建方法處理
             
             if current > 0:  # 只有當前列有設備時才處理
                 if prev > 0:  # 如果前一列也有設備，計算 beams
