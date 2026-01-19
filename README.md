@@ -1,23 +1,65 @@
 # LeetCode x Python
 
-### Description of This Repository
-> This is the repository of my **PYTHON** code solutions on LeetCode.
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/Solved-170-FFA116?style=flat-square&logo=leetcode)
 
-> [!NOTE] 
-> The code solutions in this repository are categorized by `Difficulty Level`.
+> 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
-> [!NOTE]
-> The `Topics Tags` would be recorded in **Commit message** column.<br>
-> Note that a LeetCode problem may have multiple solutions. My solution is just one of them and may not necessarily include all the algorithms or data structures mentioned in the `Topic Tags`.
+---
 
-### Supplementary Notes of This Repository
-- **Programming Language** :
-  - `python`
-- **Topics Tags** :
-  - `Array`、`Backtracking`、`Binary Search`、`Binary Search Tree`、`Binary Tree`、`Bit Manipulation`、`Biweekly Contest 44`、`Biweekly Contest 56`、`Biweekly Contest 70`、`Brainteaser`、`Breadth-First Search`、`Concurrency`、`Counting`、`Counting Sort`、`Database`、`Data Stream`、`Depth-First Search`、`Design`、`Dynamic Programming`、`Enumeration`、`Geometry`、`Graph`、`Greedy`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Math`、`Matrix`、`Memoization`、`Monotonic Queue`、`Number Theory`、`Ordered Set`、`Prefix Sum`、`Queue`、`Recursion`、`Stack`、`String`、`String Matching`、`Sorting`、`Sliding Window`、`Simulation`、`Tree`、`Trie`、`Two Pointers`、`Union Find`、`Weekly Contest 65`、`Weekly Contest 70`、`Weekly Contest 116`、`Weekly Contest 130`、`Weekly Contest 164`、`Weekly Contest 187`、`Weekly Contest 205`、`Weekly Contest 232`、`Weekly Contest 250`、`Weekly Contest 255`、`Weekly Contest 259`、`Weekly Contest 263`、`Weekly Contest 272`、`Weekly Contest 274`、`Weekly Contest 293`、`Weekly Contest 315`、`Weekly Contest 342`、`Weekly Contest 380`
-- **Difficulty Level** :
-  - `Easy` * 90
-  - `Medium` * 75
-  - `Hard` * 4
-- **Commit message of README.md**：
-  - This is just a fun way to use vYears.Months.Days to track the number of days I've been practicing LeetCode.
+## 📊 練習進度 (Progress)
+
+| 難度 Level | 題數 Count |
+| :--- | :---: |
+| 🟢 **Easy** | 90 |
+| 🟡 **Medium** | 76 |
+| 🔴 **Hard** | 4 |
+| **Total** | **170** |
+
+---
+
+## 🏷️ 涵蓋主題 (Topic Tags)
+
+涉及主題廣泛，點擊下方區塊展開完整清單：
+
+<details>
+<summary><b>點擊展開所有主題清單 (Full Topic List)</b></summary>
+
+### 🏗️ Data Structures
+`Array`、`Binary Search Tree`、`Binary Tree`、`Data Stream`、`Graph`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Matrix`、`Monotonic Queue`、`Queue`、`Stack`、`Tree`、`Trie`
+
+### ⚙️ Algorithms
+`Backtracking`、`Binary Search`、`Bit Manipulation`、`Breadth-First Search`、`Depth-First Search`、`Dynamic Programming`、`Enumeration`、`Greedy`、`Memoization`、`Prefix Sum`、`Recursion`、`Sorting`、`Sliding Window`、`Two Pointers`、`Union Find`、`Counting Sort`
+
+### 🔢 Math & Logic
+`Math`、`Geometry`、`Number Theory`、`Brainteaser`、`Counting`、`Simulation`、`String Matching`
+
+### 🏆 Contest Records
+* **Biweekly:** `44`, `56`, `70`
+* **Weekly:** `65`, `70`, `116`, `130`, `164`, `167`, `187`, `205`, `232`, `250`, `255`, `259`, `263`, `272`, `274`, `293`, `315`, `342`, `380`
+
+### 📂 Other
+`Concurrency`、`Database`、`Design`、`Ordered Set`、`String`
+
+</details>
+
+---
+
+## 💡 補充說明 (Notes)
+
+- **Programming Language** : 核心語言使用 `Python`
+- **Topic Tags** : 為了保持目錄整潔，具體的 **Topic Tags** 會記錄在每一題的 **Commit message** 欄位中
+- **Solution Strategy** : 同一道題目可能有多種解法，這裡記錄的是我的個人實作，不一定涵蓋所有標籤提到的演算法
+
+---
+
+## 🕒 關於版本號的冷知識 (Fun Fact)
+
+> [!TIP]
+> **Commit message of README.md**：
+>
+> 這裡的版本號（例如 `vYear.Month.Day`）並不是傳統的軟體版本，而是我的 **「練習天數紀錄」**
+> 
+> 這是我用來追蹤自己練習 LeetCode 總天數的一種方式 🚀
+
+---
