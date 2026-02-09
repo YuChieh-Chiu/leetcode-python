@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/Solved-172-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/Solved-173-FFA116?style=flat-square&logo=leetcode)
 
 > 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
@@ -12,9 +12,9 @@
 | 難度 Level | 題數 Count |
 | :--- | :---: |
 | 🟢 **Easy** | 92 |
-| 🟡 **Medium** | 76 |
+| 🟡 **Medium** | 77 |
 | 🔴 **Hard** | 4 |
-| **Total** | **172** |
+| **Total** | **173** |
 
 ---
 
@@ -29,17 +29,17 @@
 `Array`、`Binary Search Tree`、`Binary Tree`、`Data Stream`、`Graph`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Matrix`、`Monotonic Queue`、`Queue`、`Stack`、`Tree`、`Trie`
 
 ### ⚙️ Algorithms
-`Backtracking`、`Binary Search`、`Bit Manipulation`、`Breadth-First Search`、`Depth-First Search`、`Dynamic Programming`、`Enumeration`、`Greedy`、`Memoization`、`Prefix Sum`、`Recursion`、`Sorting`、`Sliding Window`、`Two Pointers`、`Union Find`、`Counting Sort`
+`Backtracking`、`Binary Search`、`Bit Manipulation`、`Breadth-First Search`、`Depth-First Search`、`Divide and Conquer`、`Dynamic Programming`、`Enumeration`、`Greedy`、`Memoization`、`Prefix Sum`、`Recursion`、`Sorting`、`Sliding Window`、`Two Pointers`、`Union Find`、`Counting Sort`
 
 ### 🔢 Math & Logic
 `Math`、`Geometry`、`Number Theory`、`Brainteaser`、`Counting`、`Simulation`、`String Matching`
 
 ### 🏆 Contest Records
 * **Biweekly:** `44`, `56`, `70`
-* **Weekly:** `65`, `70`, `116`, `130`, `155`, `164`, `167`, `187`, `205`, `232`, `250`, `255`, `259`, `263`, `272`, `274`, `293`, `315`, `342`, `380`, `381`
+* **Weekly:** `65`, `70`, `116`, `130`, `155`, `164`, `167`, `180`, `187`, `205`, `232`, `250`, `255`, `259`, `263`, `272`, `274`, `293`, `315`, `342`, `380`, `381`
 
 ### 📂 Other
-`Concurrency`、`Database`、`Design`、`Ordered Set`、`String`
+`Concurrency`、`Database`、`Design`、`Ordered Set`、`Senior`、`String`
 
 </details>
 
