@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/Solved-176-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/Solved-177-FFA116?style=flat-square&logo=leetcode)
 
 > 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
@@ -12,9 +12,9 @@
 | 難度 Level | 題數 Count |
 | :--- | :---: |
 | 🟢 **Easy** | 94 |
-| 🟡 **Medium** | 78 |
+| 🟡 **Medium** | 79 |
 | 🔴 **Hard** | 4 |
-| **Total** | **176** |
+| **Total** | **177** |
 
 ---
 
@@ -36,10 +36,10 @@
 
 ### 🏆 Contest Records
 * **Biweekly:** `27`、`44`, `56`, `70`
-* **Weekly:** `65`, `70`, `116`, `130`, `155`, `164`, `167`, `180`, `187`, `196`, `205`, `232`, `250`, `255`, `259`, `263`, `272`, `274`, `293`, `315`, `342`, `380`, `381`
+* **Weekly:** `65`, `70`, `116`, `130`, `155`, `164`, `167`, `180`, `187`, `196`, `200`, `205`, `232`, `250`, `255`, `259`, `263`, `272`, `274`, `293`, `315`, `342`, `380`, `381`
 
 ### 📂 Other
-`Concurrency`、`Database`、`Design`、`Ordered Set`、`Senior`、`String`
+`Concurrency`、`Database`、`Design`、`Ordered Set`、`Senior`、`Staff`、`String`
 
 </details>
 
