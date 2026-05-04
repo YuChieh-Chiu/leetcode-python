@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/Solved-185-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/Solved-186-FFA116?style=flat-square&logo=leetcode)
 
 > 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
@@ -12,9 +12,9 @@
 | 難度 Level | 題數 Count |
 | :--- | :---: |
 | 🟢 **Easy** | 97 |
-| 🟡 **Medium** | 84 |
+| 🟡 **Medium** | 85 |
 | 🔴 **Hard** | 4 |
-| **Total** | **185** |
+| **Total** | **186** |
 
 ---
 
