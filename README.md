@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/Solved-199-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/Solved-200-FFA116?style=flat-square&logo=leetcode)
 
 > 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
@@ -12,9 +12,9 @@
 | 難度 Level | 題數 Count |
 | :--- | :---: |
 | 🟢 **Easy** | 103 |
-| 🟡 **Medium** | 92 |
+| 🟡 **Medium** | 93 |
 | 🔴 **Hard** | 4 |
-| **Total** | **199** |
+| **Total** | **200** |
 
 ---
 
@@ -26,17 +26,17 @@
 <summary><b>點擊展開所有主題清單 (Full Topic List)</b></summary>
 
 ### 🏗️ Data Structures
-`Array`、`Binary Search Tree`、`Binary Tree`、`Data Stream`、`Graph`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Matrix`、`Monotonic Queue`、`Monotonic Stack`、`Queue`、`Stack`、`String`、`Tree`、`Trie`
+`Array`、`Binary Search Tree`、`Binary Tree`、`Binary Indexed Tree`、`Data Stream`、`Graph`、`Heap (Priority Queue)`、`Hash Table`、`Linked List`、`Matrix`、`Monotonic Queue`、`Monotonic Stack`、`Queue`、`Stack`、`String`、`Tree`、`Trie`
 
 ### ⚙️ Algorithms
-`Backtracking`、`Binary Search`、`Bit Manipulation`、`Breadth-First Search`、`Depth-First Search`、`Divide and Conquer`、`Dynamic Programming`、`Enumeration`、`Greedy`、`Hash Function`、`Memoization`、`Prefix Sum`、`Recursion`、`Rolling Hash`、`Sorting`、`Sliding Window`、`Two Pointers`、`Union Find`、`Counting Sort`
+`Backtracking`、`Binary Search`、`Bit Manipulation`、`Breadth-First Search`、`Depth-First Search`、`Divide and Conquer`、`Dynamic Programming`、`Enumeration`、`Greedy`、`Hash Function`、`Memoization`、`Prefix Sum`、`Recursion`、`Rolling Hash`、`Sorting`、`Sqrt Decomposition`、`Sliding Window`、`Two Pointers`、`Union Find`、`Counting Sort`
 
 ### 🔢 Math & Logic
 `Math`、`Geometry`、`Number Theory`、`Brainteaser`、`Counting`、`Simulation`、`String Matching`、`Mid Level`
 
 ### 🏆 Contest Records
 * **Biweekly:** `15`, `27`, `44`, `53`, `56`, `70`, `71`, `97`, `112`
-* **Weekly:** `65`, `70`, `94`, `116`, `130`, `140`, `155`, `164`, `167`, `175`, `180`, `181`, `187`, `191`, `196`, `200`, `205`, `207`, `232`, `237`, `239`, `250`, `254`, `255`, `259`, `263`, `268`, `270`, `272`, `274`, `276`, `293`, `315`, `342`, `380`, `381`, `394`, `395`
+* **Weekly:** `65`, `70`, `94`, `116`, `130`, `140`, `155`, `164`, `167`, `175`, `180`, `181`, `184`, `187`, `191`, `196`, `200`, `205`, `207`, `232`, `237`, `239`, `250`, `254`, `255`, `259`, `263`, `268`, `270`, `272`, `274`, `276`, `293`, `315`, `342`, `380`, `381`, `394`, `395`
 
 ### 📂 Other
 `Concurrency`、`Database`、`Design`、`Ordered Set`、`Senior`、`Senior Staff`、`Staff`、`String`
