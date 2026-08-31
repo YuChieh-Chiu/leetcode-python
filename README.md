@@ -1,7 +1,7 @@
 # LeetCode x Python
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/Solved-203-FFA116?style=flat-square&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/Solved-204-FFA116?style=flat-square&logo=leetcode)
 
 > 這是我的 **PYTHON** LeetCode 解題紀錄庫
 
@@ -12,9 +12,9 @@
 | 難度 Level | 題數 Count |
 | :--- | :---: |
 | 🟢 **Easy** | 105 |
-| 🟡 **Medium** | 94 |
+| 🟡 **Medium** | 95 |
 | 🔴 **Hard** | 4 |
-| **Total** | **203** |
+| **Total** | **204** |
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🏆 Contest Records
 * **Biweekly:** `15`, `27`, `44`, `53`, `56`, `70`, `71`, `97`, `112`
-* **Weekly:** `65`, `70`, `94`, `116`, `130`, `140`, `155`, `164`, `167`, `175`, `180`, `181`, `184`, `187`, `191`, `196`, `197`, `200`, `204`, `205`, `207`, `232`, `237`, `239`, `250`, `254`, `255`, `259`, `263`, `268`, `270`, `272`, `274`, `276`, `293`, `315`, `342`, `380`, `381`, `394`, `395`
+* **Weekly:** `65`, `70`, `94`, `116`, `130`, `140`, `155`, `164`, `167`, `175`, `180`, `181`, `184`, `187`, `191`, `196`, `197`, `200`, `204`, `205`, `207`, `232`, `237`, `239`, `250`, `254`, `255`, `259`, `263`, `265`, `268`, `270`, `272`, `274`, `276`, `293`, `315`, `342`, `380`, `381`, `394`, `395`
 
 ### 📂 Other
 `Concurrency`、`Database`、`Design`、`Ordered Set`、`Senior`、`Senior Staff`、`Staff`、`String`
